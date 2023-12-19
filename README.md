@@ -1,4 +1,4 @@
-# Loan_Prediction_using_Django
+# Loan_Prediction_using_ machine learning 
 ##This MachineLearning project  deploy with django application 
 
 
